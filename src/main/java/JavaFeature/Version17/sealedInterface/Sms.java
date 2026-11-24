@@ -1,4 +1,4 @@
-package java17_feature.sealedInterface;
+package JavaFeature.Version17.sealedInterface;
 
 public final class Sms implements Notification {
     @Override

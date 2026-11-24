@@ -1,6 +1,4 @@
-package java17_feature.patternMatching;
-
-import java.util.Objects;
+package JavaFeature.Version17.patternMatching;
 
 public class PatternDemo1 {
 
